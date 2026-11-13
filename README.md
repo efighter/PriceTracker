@@ -1,12 +1,12 @@
-# ToolPulse
+# Tool PriceTracker
 
-ToolPulse collects Harbor Freight product prices and promotional history, stores
+Tool PriceTracker collects Harbor Freight product prices and promotional history, stores
 observations in SQLite, and generates static HTML reports. Data comes from
 Harbor Freight's public product catalog and deal pages, plus archived copies of
 those pages in the Internet Archive's Wayback Machine.
 
 This README describes the code as it exists today. The planning document
-[`ToolPulse_HF_Price_Tracker_Spec.docx.md`](./ToolPulse_HF_Price_Tracker_Spec.docx.md)
+[`Tool PriceTracker_HF_Price_Tracker_Spec.docx.md`](./ToolPulse_HF_Price_Tracker_Spec.docx.md)
 also discusses future ideas that are not implemented here.
 
 ## What it does
